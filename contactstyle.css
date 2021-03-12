@@ -1,0 +1,35 @@
+.container{
+    background-color:#a7e4dc;
+    /* padding: 5px 20px 15px 20px; */
+    border: 1px solid lightblue;
+    border-radius: 10px;
+    
+}
+.uu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+
+
+.pay{
+    text-align: right;
+}
+.heading{
+    text-align: center;
+    font-size: 100%;
+    margin: 0;
+    background-color: rgb(133, 219, 186);
+    color: black;
+    padding: 10px;
+}
+
+input[type="submit"]
+{
+    background-color:rgba(85, 150, 128, 0.8);
+    color: rgb(6, 19, 3);
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 50%;
